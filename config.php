@@ -1,0 +1,1 @@
+tipoBanco='mysql'
